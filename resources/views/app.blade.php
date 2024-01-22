@@ -72,6 +72,7 @@
 
     <div class="row">
         <div class="col-12 mt-5">
+            @yield('content')
         </div>
         <div class="col-md-3">
 
